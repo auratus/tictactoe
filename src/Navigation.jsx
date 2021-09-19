@@ -36,10 +36,10 @@ function Navigation() {
                         <label for="checkBox" id="checkLabel">&#x2630;</label>
                         <ul id="drop_down">
                             <label id="close" for="checkBox"><i class="fas fa-window-close"></i></label>
-                            <li id="index"><a href="https://www.rohittechnical.cf" >Home</a></li>
-                            <li id="services"><a href="https://www.rohittechnical.cf/services.html" >Services</a></li>
-                            <li id="contactus"><a href="https://www.rohittechnical.cf/contactus.html" >Contact Us</a></li>
-                            <li id="myprojects"><a href="https://www.rohittechnical.cf/myprojects.html" >Projects</a></li>
+                            <li id="index"><a href="https://auratus.github.io/rohittechnical.github.io/index.html" >Home</a></li>
+                            <li id="services"><a href="https://auratus.github.io/rohittechnical.github.io/services.html" >Services</a></li>
+                            <li id="contactus"><a href="https://auratus.github.io/rohittechnical.github.io/contactus.html" >Contact Us</a></li>
+                            <li id="myprojects"><a href="https://auratus.github.io/rohittechnical.github.io/myprojects.html" >Projects</a></li>
                         </ul>
 
 
